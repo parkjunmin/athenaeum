@@ -48,6 +48,7 @@ A place of knowedge
 
 - [Shodan](https://www.shodan.io)
 - [Hunter.io](https://hunter.io)
+- [CriminalIP.io](https://www.criminalip.io/)
 - [Censys](https://censys.io)
 - [crt.sh](https://crt.sh)
 - [_IntelligenceX](https://intelx.io)
